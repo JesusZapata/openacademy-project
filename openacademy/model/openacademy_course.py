@@ -42,5 +42,6 @@ class Course(models.Model):
             new_name = _(u"Copy of {} ({})").format(self.name, copied_count)
 
         default['name'] = new_name
+        default['test_1'] = _('Test 1')
         return super(Course, self).copy(default)
 
