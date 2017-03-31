@@ -1,16 +1,14 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-#	* openacademy
-#
+# * openacademy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-29 14:36+0000\n"
-"PO-Revision-Date: 2017-03-31 19:53+0000\n"
-"Last-Translator: Weblate Admin <noreply@weblate.org>\n"
-"Language-Team: Spanish <http://example.com/projects/openacademy-project"
-"/openacademy-project/es/>\n"
+"POT-Creation-Date: 2017-03-31 21:08+0000\n"
+"PO-Revision-Date: 2017-03-31 21:08+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -456,35 +454,35 @@ msgstr "El título del curso debe ser exclusivo"
 #: code:addons/openacademy/model/openacademy_session.py:63
 #, python-format
 msgid "The number of available seats may not be negative"
-msgstr "El número de asientos disponibles no puede ser negativo"
+msgstr "The number of available seats may not be negative"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:26
 #: sql_constraint:openacademy.course:0
 #, python-format
 msgid "The title of the course should not be the description"
-msgstr "El título del curso no debe ser la descripción"
+msgstr "The title of the course should not be the description"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "This is an example of notebooks"
-msgstr "Este es un ejemplo de portátiles"
+msgstr "This is an example of notebooks"
 
 #. module: openacademy
 #: field:openacademy.course,name:0
 msgid "Title"
-msgstr "Título"
+msgstr "Title"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:69
 #, python-format
 msgid "Too many attendees"
-msgstr "Demasiados asistentes"
+msgstr "Too many attendees"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.view_openacad_session_kanban
 msgid "duration:"
-msgstr "duración:"
+msgstr "duration:"
 
 #. module: openacademy
 #: view:openacademy.wizard:openacademy.wizard_form_view
