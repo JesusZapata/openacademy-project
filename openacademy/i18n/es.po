@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-29 14:36+0000\n"
-"PO-Revision-Date: 2017-03-30 14:02+0000\n"
+"PO-Revision-Date: 2017-03-31 03:19+0000\n"
 "Last-Translator: Weblate Admin <noreply@weblate.org>\n"
 "Language-Team: Spanish <http://example.com/projects/openacademy-project"
 "/openacademy-project/es/>\n"
@@ -456,7 +456,7 @@ msgstr "El título del curso debe ser exclusivo"
 #: code:addons/openacademy/model/openacademy_session.py:63
 #, python-format
 msgid "The number of available seats may not be negative"
-msgstr "The number of available seats may not be negative"
+msgstr "El número de asientos disponibles no puede ser negativo"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:26
