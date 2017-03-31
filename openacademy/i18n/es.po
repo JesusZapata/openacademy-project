@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-29 14:36+0000\n"
-"PO-Revision-Date: 2017-03-31 19:51+0000\n"
+"PO-Revision-Date: 2017-03-31 19:53+0000\n"
 "Last-Translator: Weblate Admin <noreply@weblate.org>\n"
 "Language-Team: Spanish <http://example.com/projects/openacademy-project"
 "/openacademy-project/es/>\n"
@@ -479,12 +479,12 @@ msgstr "Título"
 #: code:addons/openacademy/model/openacademy_session.py:69
 #, python-format
 msgid "Too many attendees"
-msgstr "Too many attendees"
+msgstr "Demasiados asistentes"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.view_openacad_session_kanban
 msgid "duration:"
-msgstr "duration:"
+msgstr "duración:"
 
 #. module: openacademy
 #: view:openacademy.wizard:openacademy.wizard_form_view
