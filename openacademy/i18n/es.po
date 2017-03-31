@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-29 14:36+0000\n"
-"PO-Revision-Date: 2017-03-31 03:23+0000\n"
+"PO-Revision-Date: 2017-03-31 19:51+0000\n"
 "Last-Translator: Weblate Admin <noreply@weblate.org>\n"
 "Language-Team: Spanish <http://example.com/projects/openacademy-project"
 "/openacademy-project/es/>\n"
@@ -473,7 +473,7 @@ msgstr "Este es un ejemplo de portátiles"
 #. module: openacademy
 #: field:openacademy.course,name:0
 msgid "Title"
-msgstr "Title"
+msgstr "Título"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:69
