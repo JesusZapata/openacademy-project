@@ -273,7 +273,7 @@ msgstr "Actualizado el"
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_form_view
 msgid "Mark as done"
-msgstr "Marcar como realizado"
+msgstr "Marcar como realizado (modificado)"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_search_view
