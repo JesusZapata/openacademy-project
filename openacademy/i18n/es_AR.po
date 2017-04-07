@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-05 21:47+0000\n"
-"PO-Revision-Date: 2017-04-05 21:47+0000\n"
+"POT-Creation-Date: 2017-04-06 17:01+0000\n"
+"PO-Revision-Date: 2017-04-06 17:01+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "A session's instructor can't be an attendee"
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "About"
-msgstr "About"
+msgstr "About modificado"
 
 #. module: openacademy
 #: field:openacademy.session,active:0
@@ -437,6 +437,18 @@ msgid "Test 1"
 msgstr "Test 1"
 
 #. module: openacademy
+#: code:addons/openacademy/model/openacademy_course.py:54
+#, python-format
+msgid "Test 10"
+msgstr "Test 10"
+
+#. module: openacademy
+#: code:addons/openacademy/model/openacademy_course.py:55
+#, python-format
+msgid "Test 11"
+msgstr "Test 11"
+
+#. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:46
 #, python-format
 msgid "Test 2"
@@ -459,6 +471,30 @@ msgstr "Test 4"
 #, python-format
 msgid "Test 5"
 msgstr "Test 5"
+
+#. module: openacademy
+#: code:addons/openacademy/model/openacademy_course.py:50
+#, python-format
+msgid "Test 6"
+msgstr "Test 6"
+
+#. module: openacademy
+#: code:addons/openacademy/model/openacademy_course.py:51
+#, python-format
+msgid "Test 7"
+msgstr "Test 7"
+
+#. module: openacademy
+#: code:addons/openacademy/model/openacademy_course.py:52
+#, python-format
+msgid "Test 8"
+msgstr "Test 8"
+
+#. module: openacademy
+#: code:addons/openacademy/model/openacademy_course.py:53
+#, python-format
+msgid "Test 9"
+msgstr "Test 9"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:30
