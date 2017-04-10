@@ -509,7 +509,7 @@ msgstr "Test 8"
 #: code:addons/openacademy/model/openacademy_course.py:53
 #, python-format
 msgid "Test 9"
-msgstr "Test 9 modified Github 2"
+msgstr "Test 9 modified local"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:30
