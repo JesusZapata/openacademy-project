@@ -48,11 +48,7 @@ install:
   - git clone --depth=1 https://github.com/Vauxoo-dev/maintainer-quality-tools.git -b oca-test-two-branches-jesuszapata ${HOME}/maintainer-quality-tools
   - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
   - travis_install_nightly
-  - git --git-dir=/.repo_requirements/odoo/.git remote add vauxoo-dev git@github.com:vauxoo-dev/odoo.git
-  - git --git-dir=/.repo_requirements/odoo/.git fetch --depth=1 vauxoo-dev 8.0-vx-generate-empty-content-po-file-jesuszapata
-  - git --git-dir=/.repo_requirements/odoo/.git checkout -b 8.0-vx-generate-empty-content-po-file-jesuszapata vauxoo-dev/8.0-vx-generate-empty-content-po-file-jesuszapata
-  - git --git-dir=/.repo_requirements/odoo/.git reset --hard vauxoo-dev/8.0-vx-generate-empty-content-po-file-jesuszapata
-
+  
 script:
   - travis_run_tests
 
