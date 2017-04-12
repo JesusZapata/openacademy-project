@@ -43,6 +43,7 @@ msgstr ""
 #. module: openacademy
 #: model:ir.actions.act_window,name:openacademy.launch_session_wizard
 #: view:openacademy.wizard:openacademy.wizard_form_view
+msgid "Add Attendees"
 msgstr "Add Attendees diff"
 
 #. module: openacademy
