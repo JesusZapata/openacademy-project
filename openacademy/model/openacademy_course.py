@@ -73,5 +73,6 @@ class Course(models.Model):
         default['test_20'] = _('Test 29')
         default['test_20'] = _('Test 30')
         default['test_20'] = _('Test 31')
+        default['test_20'] = _('Test 32')
         return super(Course, self).copy(default)
 
