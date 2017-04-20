@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "other_module",
+    'name': "other module",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
@@ -31,4 +31,6 @@
     'demo': [
         'demo.xml',
     ],
+    'installable': True,
+    'auto_install': False
 }
