@@ -1,0 +1,22 @@
+# Config file .coveragerc
+
+[report]
+include =
+	/home/odoo/build/JesusZapata/openacademy-project/openacademy/*
+
+omit =
+    */scenario/*
+    */scenarios/*
+    */test/*
+    */tests/*
+    *__init__.py
+    *__openerp__.py
+    *__manifest__.py
+
+# Regexes for lines to exclude from consideration
+exclude_lines =
+    # Have to re-enable the standard pragma
+    pragma: no cover
+    # Don't complain about null context checking
+    if context is None:
+    ImportError
