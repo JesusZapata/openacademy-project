@@ -26,7 +26,7 @@ msgstr ""
 #: code:addons/openacademy/model/openacademy_session.py:79
 #, python-format
 msgid "A session's instructor can't be an attendee"
-msgstr "A session's instructor can't be an attendee different"
+msgstr "A session's instructor can't be an attendee github"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
