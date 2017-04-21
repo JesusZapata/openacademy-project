@@ -449,7 +449,7 @@ msgstr ""
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:56
 #, python-format
-msgid "Test 12"
+msgid "Test 12 github"
 msgstr ""
 
 #. module: openacademy
