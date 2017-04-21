@@ -6,7 +6,6 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-<<<<<<< HEAD
 "POT-Creation-Date: 2017-04-21 16:34+0000\n"
 "PO-Revision-Date: 2017-04-21 16:34+0000\n"
 "Last-Translator: <>\n"
@@ -711,7 +710,3 @@ msgstr ""
 msgid "to"
 <<<<<<< HEAD
 msgstr "to github"
-
-=======
-msgstr ""
->>>>>>> 8.0-vx-weblate/8.0-vx
