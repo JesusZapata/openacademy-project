@@ -62,8 +62,6 @@ class Course(models.Model):
         default['test_18'] = _('Test 18')
         default['test_19'] = _('Test 19')
         default['test_20'] = _('Test 20')
-        default['test_20'] = _('Test 21')
-        default['test_20'] = _('Test 22')
         default['test_20'] = _('Test 23')
         default['test_20'] = _('Test 24')
         default['test_20'] = _('Test 25')
