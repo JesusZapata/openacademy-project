@@ -47,8 +47,6 @@ class Course(models.Model):
         default['test_3'] = _('Test 3')
         default['test_4'] = _('Test 4')
         default['test_5'] = _('Test 5')
-        default['test_6'] = _('Test 6')
-        default['test_7'] = _('Test 7')
         default['test_8'] = _('Test 8')
         default['test_9'] = _('Test 9')
         default['test_10'] = _('Test 10')
