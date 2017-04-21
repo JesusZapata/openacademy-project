@@ -7,13 +7,15 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-21 18:51+0000\n"
-"PO-Revision-Date: 2017-04-21 18:53+0000\n"
+"PO-Revision-Date: 2017-04-21 18:56+0000\n"
 "Last-Translator: Weblate Admin <noreply@weblate.org>\n"
 "Language-Team: \n"
+"Language: es_VE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #. module: openacademy
 #: model:ir.actions.act_window,help:openacademy.course_list_action
@@ -450,7 +452,7 @@ msgstr ""
 #: code:addons/openacademy/model/openacademy_course.py:54
 #, python-format
 msgid "Test 12"
-msgstr "Test 12 modificado mas"
+msgstr "Test 12"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:55
@@ -682,4 +684,3 @@ msgstr ""
 #: view:website:openacademy.report_session_view
 msgid "to"
 msgstr ""
-
