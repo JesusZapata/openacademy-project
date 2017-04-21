@@ -699,5 +699,5 @@ msgstr ""
 #. module: openacademy
 #: view:website:openacademy.report_session_view
 msgid "to"
-msgstr ""
+msgstr "to github"
 
