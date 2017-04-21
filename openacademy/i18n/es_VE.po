@@ -7,15 +7,13 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-21 18:51+0000\n"
-"PO-Revision-Date: 2017-04-21 18:51+0000\n"
-"Last-Translator: <>\n"
+"PO-Revision-Date: 2017-04-21 18:53+0000\n"
+"Last-Translator: Weblate Admin <noreply@weblate.org>\n"
 "Language-Team: \n"
-"Language: es_VE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.13.1\n"
+"Plural-Forms: \n"
 
 #. module: openacademy
 #: model:ir.actions.act_window,help:openacademy.course_list_action
@@ -54,13 +52,13 @@ msgstr "Add Attendees massive diff weblate asdf"
 #. module: openacademy
 #: field:res.partner,session_ids:0
 msgid "Attended Sessions"
-msgstr ""
+msgstr "asdf asdf"
 
 #. module: openacademy
 #: field:openacademy.session,attendee_ids:0
 #: field:openacademy.wizard,attendee_ids:0
 msgid "Attendees"
-msgstr ""
+msgstr "asdf asfasdf"
 
 #. module: openacademy
 #: view:board.board:openacademy.board_session_form
@@ -684,3 +682,4 @@ msgstr ""
 #: view:website:openacademy.report_session_view
 msgid "to"
 msgstr ""
+
