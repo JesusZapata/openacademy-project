@@ -6,14 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-21 18:45+0000\n"
-"PO-Revision-Date: 2017-04-21 18:45+0000\n"
+"POT-Creation-Date: 2017-04-21 18:51+0000\n"
+"PO-Revision-Date: 2017-04-21 18:51+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
+"Language: es_VE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #. module: openacademy
 #: model:ir.actions.act_window,help:openacademy.course_list_action
@@ -26,17 +28,17 @@ msgstr ""
 #: code:addons/openacademy/model/openacademy_session.py:79
 #, python-format
 msgid "A session's instructor can't be an attendee"
-msgstr "A session's instructor can't be an attendee modificado otra vez"
+msgstr "A session's instructor can't be an attendee modificado otra vez asdf"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "About"
-msgstr "About diff"
+msgstr "About diff asdf"
 
 #. module: openacademy
 #: field:openacademy.session,active:0
 msgid "Active"
-msgstr "Active diff"
+msgstr "Active diff asdf"
 
 #. module: openacademy
 #: model:ir.actions.act_window,name:openacademy.launch_session_wizard
@@ -47,7 +49,7 @@ msgstr "Add Attendees diff"
 #. module: openacademy
 #: model:ir.ui.menu,name:openacademy.menu_launch_session_wizard
 msgid "Add Attendees massive"
-msgstr "Add Attendees massive diff weblate"
+msgstr "Add Attendees massive diff weblate asdf"
 
 #. module: openacademy
 #: field:res.partner,session_ids:0
@@ -603,6 +605,12 @@ msgid "Test 38"
 msgstr ""
 
 #. module: openacademy
+#: code:addons/openacademy/model/openacademy_course.py:78
+#, python-format
+msgid "Test 39"
+msgstr ""
+
+#. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:48
 #, python-format
 msgid "Test 4"
@@ -676,4 +684,3 @@ msgstr ""
 #: view:website:openacademy.report_session_view
 msgid "to"
 msgstr ""
-
