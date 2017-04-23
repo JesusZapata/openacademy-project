@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-23 18:50+0000\n"
-"PO-Revision-Date: 2017-04-23 18:50+0000\n"
+"POT-Creation-Date: 2017-04-23 18:57+0000\n"
+"PO-Revision-Date: 2017-04-23 18:57+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "asf asdfasdfasdf"
 #. module: test_module
 #: field:test_module.test_module,display_name:0
 msgid "Display Name"
-msgstr "asd fasdfasdfasdf"
+msgstr "Display Name weblate"
 
 #. module: test_module
 #: field:test_module.test_module,id:0
@@ -78,4 +78,10 @@ msgstr "asdf asfasdf"
 #, python-format
 msgid "Test 4"
 msgstr "Test 4 weblate"
+
+#. module: test_module
+#: code:addons/test_module/models.py:15
+#, python-format
+msgid "Test 5"
+msgstr ""
 
