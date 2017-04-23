@@ -12,3 +12,4 @@ class test_module(models.Model):
         _("Test 2")
         _("Test 3")
         _("Test 4")
+        _("Test 5")
