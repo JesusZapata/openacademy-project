@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-23 18:57+0000\n"
-"PO-Revision-Date: 2017-04-24 12:57+0000\n"
+"PO-Revision-Date: 2017-04-24 13:00+0000\n"
 "Last-Translator: Weblate Admin <noreply@weblate.org>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -88,7 +88,7 @@ msgstr "Cancelar"
 #. module: openacademy
 #: field:openacademy.session,color:0
 msgid "Color"
-msgstr "Color weblate"
+msgstr "Color weblate diff"
 
 #. module: openacademy
 #: model:ir.ui.menu,name:openacademy.configuration_menu
