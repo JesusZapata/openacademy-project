@@ -86,7 +86,7 @@ msgstr "Cancelar"
 #. module: openacademy
 #: field:openacademy.session,color:0
 msgid "Color"
-msgstr "Color github"
+msgstr "Color github 2"
 
 #. module: openacademy
 #: model:ir.ui.menu,name:openacademy.configuration_menu
