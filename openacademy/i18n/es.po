@@ -88,7 +88,7 @@ msgstr "Cancelar"
 #. module: openacademy
 #: field:openacademy.session,color:0
 msgid "Color"
-msgstr "Color weblate modificadp"
+msgstr "Color github"
 
 #. module: openacademy
 #: model:ir.ui.menu,name:openacademy.configuration_menu
