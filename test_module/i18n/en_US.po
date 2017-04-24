@@ -7,13 +7,15 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-24 13:26+0000\n"
-"PO-Revision-Date: 2017-04-24 13:26+0000\n"
-"Last-Translator: <>\n"
+"PO-Revision-Date: 2017-04-24 20:37+0000\n"
+"Last-Translator: Weblate Admin <noreply@weblate.org>\n"
 "Language-Team: \n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #. module: test_module
 #: field:test_module.test_module,create_uid:0
@@ -43,7 +45,7 @@ msgstr "asdf asdfasdfasdfasdf"
 #. module: test_module
 #: field:test_module.test_module,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Last Updated by weblate"
 
 #. module: test_module
 #: field:test_module.test_module,write_date:0
@@ -77,11 +79,10 @@ msgstr "asdf asfasdf"
 #: code:addons/test_module/models.py:14
 #, python-format
 msgid "Test 4"
-msgstr ""
+msgstr "Test 4 weblate"
 
 #. module: test_module
 #: code:addons/test_module/models.py:15
 #, python-format
 msgid "Test 5"
-msgstr ""
-
+msgstr "Test 5 weblate"
