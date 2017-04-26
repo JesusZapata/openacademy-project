@@ -87,7 +87,7 @@ msgstr "Cancel github"
 #. module: openacademy
 #: field:openacademy.session,color:0
 msgid "Color"
-msgstr ""
+msgstr "Color github"
 
 #. module: openacademy
 #: model:ir.ui.menu,name:openacademy.configuration_menu
