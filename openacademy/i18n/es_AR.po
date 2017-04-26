@@ -63,7 +63,7 @@ msgstr "Attendees weblate"
 #. module: openacademy
 #: view:board.board:openacademy.board_session_form
 #: model:ir.actions.act_window,name:openacademy.act_session_graph
-msgid "Attendees by course"
+msgid "Attendees by course github"
 msgstr ""
 
 #. module: openacademy
