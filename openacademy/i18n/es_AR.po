@@ -69,7 +69,7 @@ msgstr ""
 #. module: openacademy
 #: field:openacademy.session,attendees_count:0
 msgid "Attendees count"
-msgstr ""
+msgstr "Attendees count github"
 
 #. module: openacademy
 #: view:website:openacademy.report_session_view
