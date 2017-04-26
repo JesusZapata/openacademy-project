@@ -10,10 +10,12 @@ msgstr ""
 "PO-Revision-Date: 2017-04-26 02:25+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
+"Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #. module: openacademy
 #: model:ir.actions.act_window,help:openacademy.course_list_action
@@ -700,4 +702,3 @@ msgstr ""
 #: view:website:openacademy.report_session_view
 msgid "to"
 msgstr ""
-
