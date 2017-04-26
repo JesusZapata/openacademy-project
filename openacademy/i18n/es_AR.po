@@ -75,7 +75,7 @@ msgstr "Attendees count github"
 #. module: openacademy
 #: view:website:openacademy.report_session_view
 msgid "Attendees:"
-msgstr ""
+msgstr "Attendees github:"
 
 #. module: openacademy
 #: view:openacademy.wizard:openacademy.wizard_form_view
