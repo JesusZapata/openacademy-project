@@ -6,14 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-04 10:22+0000\n"
-"PO-Revision-Date: 2017-05-04 10:22+0000\n"
+"POT-Creation-Date: 2017-05-04 14:27+0000\n"
+"PO-Revision-Date: 2017-05-04 14:27+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #. module: openacademy
 #: model:ir.actions.act_window,help:openacademy.course_list_action
@@ -28,7 +29,7 @@ msgstr "<p class=\"oe_view_nocontent_create\">Crea el primer curso\n"
 #: code:addons/openacademy/model/openacademy_session.py:79
 #, python-format
 msgid "A session's instructor can't be an attendee"
-msgstr "Un instructor de sesión no puede ser  asdf asdfasdf"
+msgstr "Un instructor de sesión no puede ser  asdf asdfasdf weblate"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
@@ -476,13 +477,13 @@ msgstr "asfasdfasdf"
 #: code:addons/openacademy/model/openacademy_course.py:58
 #, python-format
 msgid "Test 16"
-msgstr ""
+msgstr "Test 16 weblate"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:59
 #, python-format
 msgid "Test 17"
-msgstr ""
+msgstr "Test 17 weblate"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:60
@@ -641,12 +642,6 @@ msgid "Test 43"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:83
-#, python-format
-msgid "Test 44"
-msgstr ""
-
-#. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:49
 #, python-format
 msgid "Test 5"
@@ -714,4 +709,3 @@ msgstr "o"
 #: view:website:openacademy.report_session_view
 msgid "to"
 msgstr "to test modify 6"
-
