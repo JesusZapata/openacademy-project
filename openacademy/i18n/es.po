@@ -13,7 +13,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #. module: openacademy
 #: model:ir.actions.act_window,help:openacademy.course_list_action
@@ -494,7 +495,7 @@ msgstr "Test 18 weblate"
 #: code:addons/openacademy/model/openacademy_course.py:61
 #, python-format
 msgid "Test 19"
-msgstr ""
+msgstr "Test 19 weblate"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:46
@@ -714,4 +715,3 @@ msgstr "o"
 #: view:website:openacademy.report_session_view
 msgid "to"
 msgstr "to test modify 6"
-
