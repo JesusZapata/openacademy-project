@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-10 18:35+0000\n"
-"PO-Revision-Date: 2017-05-10 18:35+0000\n"
+"POT-Creation-Date: 2017-05-10 18:37+0000\n"
+"PO-Revision-Date: 2017-05-10 18:37+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -563,87 +563,9 @@ msgid "Test 31"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:71
-#, python-format
-msgid "Test 32"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:72
-#, python-format
-msgid "Test 33"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:73
-#, python-format
-msgid "Test 34"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:74
-#, python-format
-msgid "Test 35"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:75
-#, python-format
-msgid "Test 36"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:76
-#, python-format
-msgid "Test 37"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:77
-#, python-format
-msgid "Test 38"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:78
-#, python-format
-msgid "Test 39"
-msgstr ""
-
-#. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:48
 #, python-format
 msgid "Test 4"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:79
-#, python-format
-msgid "Test 40"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:80
-#, python-format
-msgid "Test 41"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:81
-#, python-format
-msgid "Test 42"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:82
-#, python-format
-msgid "Test 43"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:83
-#, python-format
-msgid "Test 44"
 msgstr ""
 
 #. module: openacademy
