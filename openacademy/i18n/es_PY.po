@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-10 18:46+0000\n"
-"PO-Revision-Date: 2017-05-10 18:46+0000\n"
+"POT-Creation-Date: 2017-05-10 18:57+0000\n"
+"PO-Revision-Date: 2017-05-10 18:57+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -554,12 +554,6 @@ msgstr ""
 #: code:addons/openacademy/model/openacademy_course.py:69
 #, python-format
 msgid "Test 30"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:70
-#, python-format
-msgid "Test 31"
 msgstr ""
 
 #. module: openacademy
