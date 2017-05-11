@@ -13,7 +13,7 @@ class Session(models.Model):
                                     domain=['|', ('instructor', '=', True),
                                     ('category_id.name', 'ilike', "Teacher")])
     course_id = fields.Many2one('openacademy.course',
-                                ondelete='cascade', string="Course", 
+                                ondelete='cascade', string="Course",
                                 required=True)
     attendee_ids = fields.Many2many('res.partner', string="Attendees")
 
@@ -43,7 +43,7 @@ class Session(models.Model):
     @api.multi
     def action_done(self):
         self.state = 'done'
-    
+
     @api.one
     @api.depends('seats', 'attendee_ids')
     def _taken_seats(self):
@@ -53,7 +53,7 @@ class Session(models.Model):
             else:
                 r.taken_seats = 100.0 * len(r.attendee_ids) / r.seats
 
-    
+
     @api.onchange('seats', 'attendee_ids')
     def _verify_valid_seats(self):
         if self.seats < 0:
@@ -70,13 +70,11 @@ class Session(models.Model):
                     'message': _("Increase seats or remove excess attendees"),
                 },
             }
-    
+
     @api.one
     @api.constrains('instructor_id', 'attendee_ids')
     def _check_instructor_not_in_attendees(self):
-        for r in self:
-            if r.instructor_id and r.instructor_id in r.attendee_ids:
-                raise exceptions.ValidationError(_("A session's instructor can't be an attendee"))
+        pass
 
     @api.depends('start_date', 'duration')
     def _get_end_date(self):
