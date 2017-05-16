@@ -7,13 +7,16 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-20 13:07+0000\n"
-"PO-Revision-Date: 2017-04-20 13:07+0000\n"
-"Last-Translator: <>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2017-05-16 21:29+0000\n"
+"Last-Translator: Weblate Admin <noreply@weblate.org>\n"
+"Language-Team: Argentinean Spanish <http://example.com/projects"
+"/github_com_JesusZapata_openacademy-project_8_0-oca_/openacademy/es_AR/>\n"
+"Language: es_AR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #. module: openacademy
 #: model:ir.actions.act_window,help:openacademy.course_list_action
@@ -26,7 +29,7 @@ msgstr ""
 #: code:addons/openacademy/model/openacademy_session.py:79
 #, python-format
 msgid "A session's instructor can't be an attendee"
-msgstr ""
+msgstr "A session's instructor can't be an attendee weblate"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
@@ -658,4 +661,3 @@ msgstr ""
 #: view:website:openacademy.report_session_view
 msgid "to"
 msgstr ""
-
