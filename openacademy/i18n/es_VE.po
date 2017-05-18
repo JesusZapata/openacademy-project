@@ -6,17 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-10 16:26+0000\n"
-"PO-Revision-Date: 2017-05-10 17:05+0000\n"
-"Last-Translator: Weblate Admin <noreply@vauxoo.com>\n"
-"Language-Team: Spanish <http://weblate.vauxoo.com/projects"
-"/github_com_JesusZapata_openacademy-project_8_0_/openacademy/es_VE/>\n"
-"Language: es_VE\n"
+"POT-Creation-Date: 2017-05-18 12:34+0000\n"
+"PO-Revision-Date: 2017-05-18 12:34+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.12\n"
+"Plural-Forms: \n"
 
 #. module: openacademy
 #: model:ir.actions.act_window,help:openacademy.course_list_action
@@ -577,3 +574,4 @@ msgstr ""
 #: view:website:openacademy.report_session_view
 msgid "to"
 msgstr ""
+
