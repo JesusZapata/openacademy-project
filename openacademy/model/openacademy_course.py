@@ -34,6 +34,10 @@ class Course(models.Model):
     def copy(self, default=None):
         default = dict(default or {})
 
+        default['test_1'] = _('Test 1')
+        default['test_2'] = _('Test 2')
+        default['test_5'] = _('Test 5')
+
         default['test_16'] = _('Test 16')
         default['test_17'] = _('Test 17')
         default['test_18'] = _('Test 18')
@@ -46,11 +50,6 @@ class Course(models.Model):
             new_name = _(u"Copy of {} ({})").format(self.name, copied_count)
 
         default['name'] = new_name
-        default['test_1'] = _('Test 1')
-        default['test_2'] = _('Test 2')
-        default['test_3'] = _('Test 3')
-        default['test_4'] = _('Test 4')
-        default['test_5'] = _('Test 5')
         default['test_8'] = _('Test 8')
         default['test_9'] = _('Test 9')
         default['test_10'] = _('Test 10')
