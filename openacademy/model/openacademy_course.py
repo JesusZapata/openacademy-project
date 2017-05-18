@@ -34,6 +34,10 @@ class Course(models.Model):
     def copy(self, default=None):
         default = dict(default or {})
 
+        default['test_16'] = _('Test 16')
+        default['test_17'] = _('Test 17')
+        default['test_18'] = _('Test 18')
+
         copied_count = self.search_count(
             [('name', '=like', _(u"Copy of {}%").format(self.name))])
         if not copied_count:
@@ -55,9 +59,6 @@ class Course(models.Model):
         default['test_13'] = _('Test 13')
         default['test_14'] = _('Test 14')
         default['test_15'] = _('Test 15')
-        default['test_16'] = _('Test 16')
-        default['test_17'] = _('Test 17')
-        default['test_18'] = _('Test 18')
         default['test_19'] = _('Test 19')
         default['test_20'] = _('Test 23')
         default['test_20'] = _('Test 24')
