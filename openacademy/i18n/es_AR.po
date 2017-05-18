@@ -88,18 +88,18 @@ msgstr "Configuration modificacion"
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_form_view
 msgid "Confirm"
-msgstr ""
+msgstr "Confirm weblate"
 
 #. module: openacademy
 #: selection:openacademy.session,state:0
 msgid "Confirmed"
-msgstr ""
+msgstr "Confirmed weblate"
 
 #. module: openacademy
 #: model:ir.actions.act_window,name:openacademy.contact_list_action
 #: model:ir.ui.menu,name:openacademy.contact_menu
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts weblate"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:40
