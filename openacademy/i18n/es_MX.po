@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-18 20:12+0000\n"
-"PO-Revision-Date: 2017-05-18 20:12+0000\n"
+"POT-Creation-Date: 2017-05-18 20:41+0000\n"
+"PO-Revision-Date: 2017-05-18 20:41+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -102,19 +102,19 @@ msgid "Contacts"
 msgstr "Contacts weblate"
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:44
+#: code:addons/openacademy/model/openacademy_course.py:48
 #, python-format
 msgid "Copy of {}"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:46
+#: code:addons/openacademy/model/openacademy_course.py:50
 #, python-format
 msgid "Copy of {} ({})"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:42
+#: code:addons/openacademy/model/openacademy_course.py:46
 #, python-format
 msgid "Copy of {}%"
 msgstr ""
@@ -423,61 +423,61 @@ msgid "Taken seats"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:49
+#: code:addons/openacademy/model/openacademy_course.py:37
 #, python-format
 msgid "Test 1"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:56
+#: code:addons/openacademy/model/openacademy_course.py:55
 #, python-format
 msgid "Test 10"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:57
+#: code:addons/openacademy/model/openacademy_course.py:56
 #, python-format
 msgid "Test 11"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:58
+#: code:addons/openacademy/model/openacademy_course.py:57
 #, python-format
 msgid "Test 12"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:59
+#: code:addons/openacademy/model/openacademy_course.py:58
 #, python-format
 msgid "Test 13"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:60
+#: code:addons/openacademy/model/openacademy_course.py:59
 #, python-format
 msgid "Test 14"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:61
+#: code:addons/openacademy/model/openacademy_course.py:60
 #, python-format
 msgid "Test 15"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:37
+#: code:addons/openacademy/model/openacademy_course.py:41
 #, python-format
 msgid "Test 16"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:38
+#: code:addons/openacademy/model/openacademy_course.py:42
 #, python-format
 msgid "Test 17"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:39
+#: code:addons/openacademy/model/openacademy_course.py:43
 #, python-format
 msgid "Test 18"
 msgstr ""
@@ -489,7 +489,7 @@ msgid "Test 19"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:50
+#: code:addons/openacademy/model/openacademy_course.py:38
 #, python-format
 msgid "Test 2"
 msgstr ""
@@ -519,31 +519,19 @@ msgid "Test 26"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:51
-#, python-format
-msgid "Test 3"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:52
-#, python-format
-msgid "Test 4"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:53
+#: code:addons/openacademy/model/openacademy_course.py:39
 #, python-format
 msgid "Test 5"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:54
+#: code:addons/openacademy/model/openacademy_course.py:53
 #, python-format
 msgid "Test 8"
 msgstr ""
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:55
+#: code:addons/openacademy/model/openacademy_course.py:54
 #, python-format
 msgid "Test 9"
 msgstr ""
