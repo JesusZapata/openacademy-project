@@ -26,28 +26,28 @@ msgstr ""
 #: code:addons/openacademy/model/openacademy_session.py:79
 #, python-format
 msgid "A session's instructor can't be an attendee"
-msgstr "A session's instructor can't be an attendee weblate"
+msgstr ""
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "About"
-msgstr "About weblate"
+msgstr ""
 
 #. module: openacademy
 #: field:openacademy.session,active:0
 msgid "Active"
-msgstr "Active weblate"
+msgstr ""
 
 #. module: openacademy
 #: model:ir.actions.act_window,name:openacademy.launch_session_wizard
 #: view:openacademy.wizard:openacademy.wizard_form_view
 msgid "Add Attendees"
-msgstr "Add Attendees weblate"
+msgstr ""
 
 #. module: openacademy
 #: model:ir.ui.menu,name:openacademy.menu_launch_session_wizard
 msgid "Add Attendees massive"
-msgstr "Add Attendees massive weblate"
+msgstr ""
 
 #. module: openacademy
 #: field:res.partner,session_ids:0
