@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-13 22:35+0000\n"
-"PO-Revision-Date: 2017-06-13 22:35+0000\n"
+"POT-Creation-Date: 2017-06-29 18:05+0000\n"
+"PO-Revision-Date: 2017-06-29 18:05+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,9 @@ msgstr ""
 msgid "<p class=\"oe_view_nocontent_create\">Create the first course\n"
 "                </p>\n"
 "            "
-msgstr ""
+msgstr "<p class=\"oe_view_nocontent_create\">Create the first course\n"
+"                </p>\n"
+"            "
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:79
@@ -52,89 +54,89 @@ msgstr "Add Attendees massive weblate"
 #. module: openacademy
 #: field:res.partner,session_ids:0
 msgid "Attended Sessions"
-msgstr ""
+msgstr "Attended Sessions"
 
 #. module: openacademy
 #: field:openacademy.session,attendee_ids:0
 #: field:openacademy.wizard,attendee_ids:0
 msgid "Attendees"
-msgstr ""
+msgstr "Attendees"
 
 #. module: openacademy
 #: view:board.board:openacademy.board_session_form
 #: model:ir.actions.act_window,name:openacademy.act_session_graph
 msgid "Attendees by course"
-msgstr ""
+msgstr "Attendees by course"
 
 #. module: openacademy
 #: field:openacademy.session,attendees_count:0
 msgid "Attendees count"
-msgstr ""
+msgstr "Attendees count"
 
 #. module: openacademy
 #: view:website:openacademy.report_session_view
 msgid "Attendees:"
-msgstr ""
+msgstr "Attendees:"
 
 #. module: openacademy
 #: view:openacademy.wizard:openacademy.wizard_form_view
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #. module: openacademy
 #: field:openacademy.session,color:0
 msgid "Color"
-msgstr ""
+msgstr "Color"
 
 #. module: openacademy
 #: model:ir.ui.menu,name:openacademy.configuration_menu
 msgid "Configuration"
-msgstr ""
+msgstr "Configuration"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_form_view
 msgid "Confirm"
-msgstr ""
+msgstr "Confirm"
 
 #. module: openacademy
 #: selection:openacademy.session,state:0
 msgid "Confirmed"
-msgstr ""
+msgstr "Confirmed"
 
 #. module: openacademy
 #: model:ir.actions.act_window,name:openacademy.contact_list_action
 #: model:ir.ui.menu,name:openacademy.contact_menu
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:40
 #, python-format
 msgid "Copy of {}"
-msgstr ""
+msgstr "Copy of {}"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:42
 #, python-format
 msgid "Copy of {} ({})"
-msgstr ""
+msgstr "Copy of {} ({})"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:38
 #, python-format
 msgid "Copy of {}%"
-msgstr ""
+msgstr "Copy of {}%"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_tree_view
 #: field:openacademy.session,course_id:0
 msgid "Course"
-msgstr ""
+msgstr "Course"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "Course Form"
-msgstr ""
+msgstr "Course Form"
 
 #. module: openacademy
 #: view:board.board:openacademy.board_session_form
@@ -142,239 +144,239 @@ msgstr ""
 #: model:ir.actions.act_window,name:openacademy.course_list_action
 #: model:ir.ui.menu,name:openacademy.courses_menu
 msgid "Courses"
-msgstr ""
+msgstr "Courses"
 
 #. module: openacademy
 #: field:openacademy.course,create_uid:0
 #: field:openacademy.session,create_uid:0
 #: field:openacademy.wizard,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Created by"
 
 #. module: openacademy
 #: field:openacademy.course,create_date:0
 #: field:openacademy.session,create_date:0
 #: field:openacademy.wizard,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Created on"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.view_openacad_session_kanban
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 #: field:openacademy.course,description:0
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #. module: openacademy
 #: field:openacademy.course,display_name:0
 #: field:openacademy.session,display_name:0
 #: field:openacademy.wizard,display_name:0
 msgid "Display Name"
-msgstr ""
+msgstr "Display Name"
 
 #. module: openacademy
 #: selection:openacademy.session,state:0
 msgid "Done"
-msgstr ""
+msgstr "Done"
 
 #. module: openacademy
 #: selection:openacademy.session,state:0
 msgid "Draft"
-msgstr ""
+msgstr "Draft"
 
 #. module: openacademy
 #: field:openacademy.session,duration:0
 msgid "Duration"
-msgstr ""
+msgstr "Duration"
 
 #. module: openacademy
 #: help:openacademy.session,duration:0
 msgid "Duration in days"
-msgstr ""
+msgstr "Duration in days"
 
 #. module: openacademy
 #: field:openacademy.session,hours:0
 msgid "Duration in hours"
-msgstr ""
+msgstr "Duration in hours"
 
 #. module: openacademy
 #: field:openacademy.session,end_date:0
 msgid "End Date"
-msgstr ""
+msgstr "End Date"
 
 #. module: openacademy
 #: view:website:openacademy.report_session_view
 msgid "From"
-msgstr ""
+msgstr "From"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_form_view
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_search_view
 msgid "Group By"
-msgstr ""
+msgstr "Group By"
 
 #. module: openacademy
 #: field:openacademy.course,id:0
 #: field:openacademy.session,id:0
 #: field:openacademy.wizard,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:62
 #, python-format
 msgid "Incorrect 'seats' value"
-msgstr ""
+msgstr "Incorrect 'seats' value"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:70
 #, python-format
 msgid "Increase seats or remove excess attendees"
-msgstr ""
+msgstr "Increase seats or remove excess attendees"
 
 #. module: openacademy
 #: field:openacademy.session,instructor_id:0
 #: field:res.partner,instructor:0
 msgid "Instructor"
-msgstr ""
+msgstr "Instructor"
 
 #. module: openacademy
 #: field:openacademy.course,__last_update:0
 #: field:openacademy.session,__last_update:0
 #: field:openacademy.wizard,__last_update:0
 msgid "Last Modified on"
-msgstr ""
+msgstr "Last Modified on"
 
 #. module: openacademy
 #: field:openacademy.course,write_uid:0
 #: field:openacademy.session,write_uid:0
 #: field:openacademy.wizard,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Last Updated by"
 
 #. module: openacademy
 #: field:openacademy.course,write_date:0
 #: field:openacademy.session,write_date:0
 #: field:openacademy.wizard,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Last Updated on"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_form_view
 msgid "Mark as done"
-msgstr ""
+msgstr "Mark as done"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_search_view
 msgid "My Courses"
-msgstr ""
+msgstr "My Courses"
 
 #. module: openacademy
 #: field:openacademy.course,new_field:0
 msgid "My New Field"
-msgstr ""
+msgstr "My New Field"
 
 #. module: openacademy
 #: help:openacademy.course,new_field:0
 msgid "My new help"
-msgstr ""
+msgstr "My new help"
 
 #. module: openacademy
 #: field:openacademy.session,name:0
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #. module: openacademy
 #: field:openacademy.session,seats:0
 msgid "Number of seats"
-msgstr ""
+msgstr "Number of seats"
 
 #. module: openacademy
 #: model:ir.ui.menu,name:openacademy.main_openacademy_menu
 #: model:ir.ui.menu,name:openacademy.openacademy_menu
 msgid "Open Academy"
-msgstr ""
+msgstr "Open Academy"
 
 #. module: openacademy
 #: model:res.groups,name:openacademy.openacademy_group_manager
 msgid "OpenAcademy / Manager"
-msgstr ""
+msgstr "OpenAcademy / Manager"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.openacademy_session_graph_view
 msgid "Participations by Courses"
-msgstr ""
+msgstr "Participations by Courses"
 
 #. module: openacademy
 #: model:ir.model,name:openacademy.model_res_partner
 msgid "Partner"
-msgstr ""
+msgstr "Partner"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "Registered sessions"
-msgstr ""
+msgstr "Registered sessions"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_form_view
 msgid "Reset to draft"
-msgstr ""
+msgstr "Reset to draft"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_search_view
 #: field:openacademy.course,responsible_id:0
 msgid "Responsible"
-msgstr ""
+msgstr "Responsible"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_form_view
 msgid "Schedule"
-msgstr ""
+msgstr "Schedule"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_form_view
 msgid "Session"
-msgstr ""
+msgstr "Session"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_calendar_view
 msgid "Session Calendar"
-msgstr ""
+msgstr "Session Calendar"
 
 #. module: openacademy
 #: view:board.board:openacademy.board_session_form
 #: model:ir.actions.act_window,name:openacademy.open_board_session
 #: model:ir.ui.menu,name:openacademy.menu_board_session
 msgid "Session Dashboard"
-msgstr ""
+msgstr "Session Dashboard"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_gantt_view
 msgid "Session Gantt"
-msgstr ""
+msgstr "Session Gantt"
 
 #. module: openacademy
 #: model:ir.actions.report.xml,name:openacademy.report_session
 msgid "Session Report"
-msgstr ""
+msgstr "Session Report"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_tree_view
 msgid "Session Tree"
-msgstr ""
+msgstr "Session Tree"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.view_openacad_session_kanban
 msgid "Session name:"
-msgstr ""
+msgstr "Session name:"
 
 #. module: openacademy
 #: view:board.board:openacademy.board_session_form
@@ -386,198 +388,204 @@ msgstr ""
 #: field:openacademy.wizard,session_ids:0
 #: view:res.partner:openacademy.partner_instructor_form_view
 msgid "Sessions"
-msgstr ""
+msgstr "Sessions"
 
 #. module: openacademy
 #: model:ir.actions.server,name:openacademy.set_session_to_confirmed
 msgid "Set session to Confirmed"
-msgstr ""
+msgstr "Set session to Confirmed"
 
 #. module: openacademy
 #: model:ir.actions.server,name:openacademy.set_session_to_done
 msgid "Set session to Done"
-msgstr ""
+msgstr "Set session to Done"
 
 #. module: openacademy
 #: model:ir.actions.server,name:openacademy.set_session_to_draft
 msgid "Set session to Draft"
-msgstr ""
+msgstr "Set session to Draft"
 
 #. module: openacademy
 #: field:openacademy.session,start_date:0
 msgid "Start date"
-msgstr ""
+msgstr "Start date"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.view_openacad_session_kanban
 msgid "Start date:"
-msgstr ""
+msgstr "Start date:"
 
 #. module: openacademy
 #: field:openacademy.session,state:0
 msgid "State"
-msgstr ""
+msgstr "State"
 
 #. module: openacademy
 #: view:openacademy.wizard:openacademy.wizard_form_view
 msgid "Subscribe"
-msgstr ""
+msgstr "Subscribe"
 
 #. module: openacademy
 #: field:openacademy.session,taken_seats:0
 msgid "Taken seats"
-msgstr ""
+msgstr "Taken seats"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:45
 #, python-format
 msgid "Test 1"
-msgstr ""
+msgstr "Test 1"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:54
 #, python-format
 msgid "Test 10"
-msgstr ""
+msgstr "Test 10"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:55
 #, python-format
 msgid "Test 11"
-msgstr ""
+msgstr "Test 11"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:56
 #, python-format
 msgid "Test 12"
-msgstr ""
+msgstr "Test 12"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:57
 #, python-format
 msgid "Test 13"
-msgstr ""
+msgstr "Test 13"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:58
 #, python-format
 msgid "Test 14"
-msgstr ""
+msgstr "Test 14"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:59
 #, python-format
 msgid "Test 15"
-msgstr ""
+msgstr "Test 15"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:60
 #, python-format
 msgid "Test 16"
-msgstr ""
+msgstr "Test 16"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:61
 #, python-format
 msgid "Test 17"
-msgstr ""
+msgstr "Test 17"
+
+#. module: openacademy
+#: code:addons/openacademy/model/openacademy_course.py:62
+#, python-format
+msgid "Test 18"
+msgstr "Test 18"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:46
 #, python-format
 msgid "Test 2"
-msgstr ""
+msgstr "Test 2"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:47
 #, python-format
 msgid "Test 3"
-msgstr ""
+msgstr "Test 3"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:48
 #, python-format
 msgid "Test 4"
-msgstr ""
+msgstr "Test 4"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:49
 #, python-format
 msgid "Test 5"
-msgstr ""
+msgstr "Test 5"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:50
 #, python-format
 msgid "Test 6"
-msgstr ""
+msgstr "Test 6"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:51
 #, python-format
 msgid "Test 7"
-msgstr ""
+msgstr "Test 7"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:52
 #, python-format
 msgid "Test 8"
-msgstr ""
+msgstr "Test 8"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:53
 #, python-format
 msgid "Test 9"
-msgstr ""
+msgstr "Test 9"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:30
 #: sql_constraint:openacademy.course:0
 #, python-format
 msgid "The course title must be unique"
-msgstr ""
+msgstr "The course title must be unique"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:63
 #, python-format
 msgid "The number of available seats may not be negative"
-msgstr ""
+msgstr "The number of available seats may not be negative"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:26
 #: sql_constraint:openacademy.course:0
 #, python-format
 msgid "The title of the course should not be the description"
-msgstr ""
+msgstr "The title of the course should not be the description"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "This is an example of notebooks"
-msgstr ""
+msgstr "This is an example of notebooks"
 
 #. module: openacademy
 #: field:openacademy.course,name:0
 msgid "Title"
-msgstr ""
+msgstr "Title"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:69
 #, python-format
 msgid "Too many attendees"
-msgstr ""
+msgstr "Too many attendees"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.view_openacad_session_kanban
 msgid "duration:"
-msgstr ""
+msgstr "duration:"
 
 #. module: openacademy
 #: view:openacademy.wizard:openacademy.wizard_form_view
 msgid "or"
-msgstr ""
+msgstr "or"
 
 #. module: openacademy
 #: view:website:openacademy.report_session_view
 msgid "to"
-msgstr ""
+msgstr "to"
 
