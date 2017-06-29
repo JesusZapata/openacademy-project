@@ -228,7 +228,7 @@ msgstr "Agrupar por"
 #: field:openacademy.session,id:0
 #: field:openacademy.wizard,id:0
 msgid "ID"
-msgstr "ID weblate"
+msgstr "ID"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:62
