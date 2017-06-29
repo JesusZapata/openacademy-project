@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-29 18:05+0000\n"
-"PO-Revision-Date: 2017-06-29 18:05+0000\n"
+"POT-Creation-Date: 2017-06-29 18:41+0000\n"
+"PO-Revision-Date: 2017-06-29 18:41+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -28,12 +28,12 @@ msgstr "<p class=\"oe_view_nocontent_create\">Crea el primer curso\n"
 #: code:addons/openacademy/model/openacademy_session.py:79
 #, python-format
 msgid "A session's instructor can't be an attendee"
-msgstr "A session's instructor can't be an attendee"
+msgstr "Un instructor de sesión no puede ser asistente"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "About"
-msgstr "Acerca de"
+msgstr "About"
 
 #. module: openacademy
 #: field:openacademy.session,active:0
@@ -113,19 +113,19 @@ msgstr "Contacts"
 #: code:addons/openacademy/model/openacademy_course.py:40
 #, python-format
 msgid "Copy of {}"
-msgstr "Copy of {}"
+msgstr "Copia de {}"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:42
 #, python-format
 msgid "Copy of {} ({})"
-msgstr "Copy of {} ({})"
+msgstr "Copia de {} ({})"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:38
 #, python-format
 msgid "Copy of {}%"
-msgstr "Copy of {}%"
+msgstr "Copia de {}%"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_tree_view
@@ -191,7 +191,7 @@ msgstr "Draft"
 #. module: openacademy
 #: field:openacademy.session,duration:0
 msgid "Duration"
-msgstr "Duration"
+msgstr "Duracion"
 
 #. module: openacademy
 #: help:openacademy.session,duration:0
@@ -234,13 +234,13 @@ msgstr "ID"
 #: code:addons/openacademy/model/openacademy_session.py:62
 #, python-format
 msgid "Incorrect 'seats' value"
-msgstr "Incorrect 'seats' value"
+msgstr "Valor 'asientos' incorrecto"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:70
 #, python-format
 msgid "Increase seats or remove excess attendees"
-msgstr "Increase seats or remove excess attendees"
+msgstr "Incremente el número de asientos o elimine el excedente de asistentes"
 
 #. module: openacademy
 #: field:openacademy.session,instructor_id:0
@@ -418,7 +418,7 @@ msgstr "Fecha inicio:"
 #. module: openacademy
 #: field:openacademy.session,state:0
 msgid "State"
-msgstr "State"
+msgstr "Estado"
 
 #. module: openacademy
 #: view:openacademy.wizard:openacademy.wizard_form_view
@@ -434,7 +434,7 @@ msgstr "Taken seats"
 #: code:addons/openacademy/model/openacademy_course.py:45
 #, python-format
 msgid "Test 1"
-msgstr "Test 1"
+msgstr "Test 1 weblate"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:54
@@ -536,7 +536,7 @@ msgstr "Test 8"
 #: code:addons/openacademy/model/openacademy_course.py:53
 #, python-format
 msgid "Test 9"
-msgstr "Test 9"
+msgstr "Test 9 modified github"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:30
