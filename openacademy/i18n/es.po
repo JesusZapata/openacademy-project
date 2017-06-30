@@ -6,15 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-30 16:31+0000\n"
-"PO-Revision-Date: 2017-06-30 16:31+0000\n"
+"POT-Creation-Date: 2017-06-30 16:38+0000\n"
+"PO-Revision-Date: 2017-06-30 16:38+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.14.1\n"
+"Plural-Forms: \n"
 
 #. module: openacademy
 #: model:ir.actions.act_window,help:openacademy.course_list_action
@@ -114,7 +113,7 @@ msgstr "Confirmado"
 #: model:ir.actions.act_window,name:openacademy.contact_list_action
 #: model:ir.ui.menu,name:openacademy.contact_menu
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:40
@@ -235,7 +234,7 @@ msgstr "Agrupar por"
 #: field:openacademy.session,id:0
 #: field:openacademy.wizard,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:62
@@ -447,103 +446,103 @@ msgstr "Test 1 weblate"
 #: code:addons/openacademy/model/openacademy_course.py:54
 #, python-format
 msgid "Test 10"
-msgstr ""
+msgstr "Test 10"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:55
 #, python-format
 msgid "Test 11"
-msgstr ""
+msgstr "Test 11"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:56
 #, python-format
 msgid "Test 12"
-msgstr ""
+msgstr "Test 12"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:57
 #, python-format
 msgid "Test 13"
-msgstr ""
+msgstr "Test 13"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:58
 #, python-format
 msgid "Test 14"
-msgstr ""
+msgstr "Test 14"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:59
 #, python-format
 msgid "Test 15"
-msgstr ""
+msgstr "Test 15"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:60
 #, python-format
 msgid "Test 16"
-msgstr ""
+msgstr "Test 16"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:61
 #, python-format
 msgid "Test 17"
-msgstr ""
+msgstr "Test 17"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:62
 #, python-format
 msgid "Test 18"
-msgstr ""
+msgstr "Test 18"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:46
 #, python-format
 msgid "Test 2"
-msgstr ""
+msgstr "Test 2"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:63
 #, python-format
 msgid "Test 20"
-msgstr ""
+msgstr "Test 20"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:47
 #, python-format
 msgid "Test 3"
-msgstr ""
+msgstr "Test 3"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:48
 #, python-format
 msgid "Test 4"
-msgstr ""
+msgstr "Test 4"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:49
 #, python-format
 msgid "Test 5"
-msgstr ""
+msgstr "Test 5"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:50
 #, python-format
 msgid "Test 6"
-msgstr ""
+msgstr "Test 6"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:51
 #, python-format
 msgid "Test 7"
-msgstr ""
+msgstr "Test 7"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:52
 #, python-format
 msgid "Test 8"
-msgstr ""
+msgstr "Test 8"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:53
@@ -574,36 +573,18 @@ msgstr "El título del curso no debe ser la descripción"
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "This is an example of notebooks"
-msgstr ""
+msgstr "This is an example of notebooks"
 
 #. module: openacademy
 #: field:openacademy.course,name:0
 msgid "Title"
-msgstr ""
+msgstr "Title"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:69
 #, python-format
 msgid "Too many attendees"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:65
-#, python-format
-msgid "_AAA"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:66
-#, python-format
-msgid "__AAA"
-msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:67
-#, python-format
-msgid "___AAA"
-msgstr ""
+msgstr "Too many attendees"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:65
@@ -612,21 +593,9 @@ msgid "_AAA"
 msgstr "_AAA"
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:66
-#, python-format
-msgid "__AAA"
-msgstr "__AAA"
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:67
-#, python-format
-msgid "___AAA"
-msgstr "___AAA"
-
-#. module: openacademy
 #: view:openacademy.session:openacademy.view_openacad_session_kanban
 msgid "duration:"
-msgstr ""
+msgstr "duration:"
 
 #. module: openacademy
 #: view:openacademy.wizard:openacademy.wizard_form_view
@@ -637,3 +606,4 @@ msgstr "o"
 #: view:website:openacademy.report_session_view
 msgid "to"
 msgstr "to test modify 6"
+
