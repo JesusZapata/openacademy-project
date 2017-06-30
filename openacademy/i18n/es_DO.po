@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-30 11:30+0000\n"
-"PO-Revision-Date: 2017-06-30 11:30+0000\n"
+"POT-Creation-Date: 2017-06-30 11:32+0000\n"
+"PO-Revision-Date: 2017-06-30 11:32+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -33,12 +33,6 @@ msgstr ""
 #, python-format
 msgid "AAA"
 msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:64
-#, python-format
-msgid "AAA"
-msgstr "AAA"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
@@ -607,24 +601,6 @@ msgstr ""
 #, python-format
 msgid "___AAA"
 msgstr ""
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:65
-#, python-format
-msgid "_AAA"
-msgstr "_AAA"
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:66
-#, python-format
-msgid "__AAA"
-msgstr "__AAA"
-
-#. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:67
-#, python-format
-msgid "___AAA"
-msgstr "___AAA"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.view_openacad_session_kanban
