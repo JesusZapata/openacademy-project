@@ -6,14 +6,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-03 19:22+0000\n"
-"PO-Revision-Date: 2017-07-03 19:22+0000\n"
+"POT-Creation-Date: 2017-07-03 19:29+0000\n"
+"PO-Revision-Date: 2017-07-03 19:29+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
+
+#. module: openacademy
+#. __new__
+#: code:addons/openacademy/model/openacademy_course.py:71
+#, python-format
+msgid "<<<<<<<_AAA"
+msgstr "<<<<<<<_AAA"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:70
@@ -623,21 +630,27 @@ msgid "Too many attendees"
 msgstr "Too many attendees"
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:71
+#: code:addons/openacademy/model/openacademy_course.py:72
 #, python-format
 msgid "__ID"
 msgstr "__ID"
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:72
+#: code:addons/openacademy/model/openacademy_course.py:73
 #, python-format
 msgid "___ID"
 msgstr "___ID"
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:73
+#: code:addons/openacademy/model/openacademy_course.py:74
 #, python-format
 msgid "____ID"
+msgstr "new"
+
+#. module: openacademy
+#: code:addons/openacademy/model/openacademy_course.py:75
+#, python-format
+msgid "_____ID"
 msgstr "new"
 
 #. module: openacademy
