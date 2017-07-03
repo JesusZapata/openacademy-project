@@ -6,12 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-03 18:57+0000\n"
-"PO-Revision-Date: 2017-07-03 18:58+0000\n"
-"Last-Translator: Weblate Admin <noreply@weblate.org>\n"
-"Language-Team: Spanish <http://example.com/projects"
-"/github_com_JesusZapata_openacademy-project_8_0_/openacademy/es/>\n"
-"Language: es\n"
+"POT-Creation-Date: 2017-07-03 19:11+0000\n"
+"PO-Revision-Date: 2017-07-03 19:11+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -19,11 +17,11 @@ msgstr ""
 "X-Generator: Weblate 2.14.1\n"
 
 #. module: openacademy
-#. new
+#. __new__
 #: code:addons/openacademy/model/openacademy_course.py:70
 #, python-format
 msgid "<<<<<<_AAA"
-msgstr ""
+msgstr "<<<<<<_AAA"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:69
@@ -270,12 +268,12 @@ msgid "Group By"
 msgstr "Group By"
 
 #. module: openacademy
-#. new
+#. __new__
 #: field:openacademy.course,id:0
 #: field:openacademy.session,id:0
 #: field:openacademy.wizard,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:62
@@ -628,7 +626,6 @@ msgid "Too many attendees"
 msgstr "Too many attendees"
 
 #. module: openacademy
-#. new
 #: code:addons/openacademy/model/openacademy_course.py:71
 #, fuzzy, python-format
 msgid "__ID"
