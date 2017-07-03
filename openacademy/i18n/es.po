@@ -635,6 +635,12 @@ msgid "___ID"
 msgstr "___ID"
 
 #. module: openacademy
+#: code:addons/openacademy/model/openacademy_course.py:73
+#, python-format
+msgid "____ID"
+msgstr "new"
+
+#. module: openacademy
 #: view:openacademy.session:openacademy.view_openacad_session_kanban
 msgid "duration:"
 msgstr "duration:"
