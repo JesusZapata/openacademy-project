@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-03 19:11+0000\n"
-"PO-Revision-Date: 2017-07-03 19:11+0000\n"
+"POT-Creation-Date: 2017-07-03 19:13+0000\n"
+"PO-Revision-Date: 2017-07-03 19:13+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,6 @@ msgstr ""
 "X-Generator: Weblate 2.14.1\n"
 
 #. module: openacademy
-#. __new__
 #: code:addons/openacademy/model/openacademy_course.py:70
 #, python-format
 msgid "<<<<<<_AAA"
@@ -268,7 +267,6 @@ msgid "Group By"
 msgstr "Group By"
 
 #. module: openacademy
-#. __new__
 #: field:openacademy.course,id:0
 #: field:openacademy.session,id:0
 #: field:openacademy.wizard,id:0
