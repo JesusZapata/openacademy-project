@@ -4,3 +4,4 @@ Open Academy module for managing trainings:
             - training sessions
             - attendees registration
 
+
