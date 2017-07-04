@@ -71,5 +71,6 @@ class Course(models.Model):
         default['test_16'] = _('<<<<<<<_AAA')
         default['test_16'] = _('<<<<<<<<_AAA')
         default['test_16'] = _('<<<<<<<<_AAAA')
+        default['test_16'] = _('__ID__')
         return super(Course, self).copy(default)
 
