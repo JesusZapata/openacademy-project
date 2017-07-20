@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-19 12:11+0000\n"
-"PO-Revision-Date: 2017-05-19 12:11+0000\n"
+"POT-Creation-Date: 2017-07-20 23:44+0000\n"
+"PO-Revision-Date: 2017-07-20 23:44+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -538,7 +538,6 @@ msgstr "Test 9 modified weblate asdfasdf asdf"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:30
-#: sql_constraint:openacademy.course:0
 #, python-format
 msgid "The course title must be unique"
 msgstr ""
@@ -551,7 +550,6 @@ msgstr ""
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:26
-#: sql_constraint:openacademy.course:0
 #, python-format
 msgid "The title of the course should not be the description"
 msgstr ""
