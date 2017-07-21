@@ -1,0 +1,37 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* openacademy_copy
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-21 00:59+0000\n"
+"PO-Revision-Date: 2017-07-21 00:59+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: openacademy_copy
+#: field:res.partner,instructor_copy:0
+msgid "Instructor Copy"
+msgstr ""
+
+#. module: openacademy_copy
+#: model:ir.model,name:openacademy_copy.model_res_partner
+msgid "Partner"
+msgstr "Empresa"
+
+#. module: openacademy_copy
+#: sql_constraint:openacademy.course:0
+msgid "The course title must be unique"
+msgstr "El título del curso debe ser exclusivo"
+
+#. module: openacademy_copy
+#: sql_constraint:openacademy.course:0
+msgid "The title of the course should not be the description"
+msgstr "El título del curso no debe ser la descripción"
+
