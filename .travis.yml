@@ -38,14 +38,14 @@ env:
 
   matrix:
   - LINT_CHECK="1"
-  - TESTS="1" ODOO_REPO="vauxoo-dev/odoo" ODOO_BRANCH="10.0-vx-generate-empty-content-po-file-jesuszapata" WEBLATE="1"
+  - TESTS="1" ODOO_REPO="Vauxoo/odoo" ODOO_BRANCH="10.0"
 
 virtualenv:
   system_site_packages: true
 
 install:
   # - git clone --depth=1 https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
-  - git clone --depth=1 https://github.com/Vauxoo-dev/maintainer-quality-tools.git -b master-oca-wbl-moy ${HOME}/maintainer-quality-tools
+  - git clone --depth=1 https://github.com/vauxoo-dev/maintainer-quality-tools.git -b master-vx-used-ssh-over-weblate-jesuszapata ${HOME}/maintainer-quality-tools
   - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
   - travis_install_nightly
 
