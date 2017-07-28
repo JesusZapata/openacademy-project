@@ -7,9 +7,11 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-27 04:15+0000\n"
-"PO-Revision-Date: 2017-07-27 04:15+0000\n"
-"Last-Translator: <>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2017-07-28 00:58+0000\n"
+"Last-Translator: Weblate Admin <noreply@weblate.org>\n"
+"Language-Team: Spanish <http://example.com/projects"
+"/github_com_JesusZapata_openacademy-project_8_0-test_/openacademy/es_VE/>\n"
+"Language: es_VE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -100,7 +102,7 @@ msgstr "Confirmed es_VE"
 #: model:ir.actions.act_window,name:openacademy.contact_list_action
 #: model:ir.ui.menu,name:openacademy.contact_menu
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts es_VE"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_course.py:48
@@ -124,12 +126,12 @@ msgstr ""
 #: view:openacademy.course:openacademy.course_tree_view
 #: field:openacademy.session,course_id:0
 msgid "Course"
-msgstr ""
+msgstr "Course es_VE"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "Course Form"
-msgstr ""
+msgstr "Course Form es_VE"
 
 #. module: openacademy
 #: view:board.board:openacademy.board_session_form
