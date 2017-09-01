@@ -33,9 +33,7 @@ addons:
 env:
   global:
   - VERSION="8.0" TESTS="0" LINT_CHECK="0"
-  - secure: "Q0nJ8ydbMNCjI0DoqBuy+46FL+LsKJWSAqqKsOK30Tqrggcnd/Q4zcfJf1iN47l+A+4RRI1NNjdkE9dC7LIF1UW6OZIZWmk2YOlS/4BeiScVAarCJL3x8yJ34qnUgra/B05QvJDuLeq9+OmZll12kb9Q2PzMM5yfZ3EYpi/gNzgQq0h2ktY+xjUkC8nTVDzB1VliEAKKIqESsJOkjNz2bFiN+SXnTiFVknn5sbec5mp5IuswS2/0d3i9QiLS9YDNG9TMvk1kyt4a/Ok7iUzAUeJrcW0X1ppD1sDiVnlt1EpV6cmmQUWlsDS6Rrbc2BrrvavCShEOQoPzMPeOUpDZ2FARU9KVz9YWjxEg1zpTQTfnrEqFirV1xCL5avKrfBu7QUl4R6H+OUfgxkQxDlfS9ZBWhV5r7ebDzOYeVIj4jlN/WuMJa1/k63kpmvppZ0BPLm0oPJfPsuoh0sRB+lx3+uxw60fPYhK4h/4WaHj9O0SK+rysrvwE80/cuxBPfaESJcOl1dYHY2WT7KKkUhH8IJygP9PSyB41oPA9rUwjiiTb1qNueX8LXdUo2y9hRaVcBEkGD9ehrSFVMjtV3On1xwH0OWECn0FmN2mZwzZX5OptLRVlOWgZGCtDOKxIYZ/ofC45ewEg6HTQpgBgUNZmw9lT4uz6y4o3xZGJQoOFkrk="
-  - secure: "yeH+53YMwyShIeURU9zuurMZBO1WAuZPc7TL4iqMx+9LHd35wF7Ah5jipxBiww+QsYrLXlSjwh4pjbrHzHIIub9ddSqbtASlX5F4PsPg+dQGIDXUH6GxW4REXtbx7I39LIFJh2S1ym62cY/1dDwpGptAOgrNFk6BceG4FqV6+2XSIhbDoc1Yw1UB9u7VlHGrX1xXo0KDQFEOlVG6dEQCSvgLofdvYroLgnWS/Fa3K3Scj6tckqLVDQ2smSKNi2Q93dtHleU8sddtnFgMt2u9TleLKioQVk/ur4OOj7jkj1iIUf1loKARQR35nZgjP7YyXAF5ZAMgeB9eCzf7fhTY4uF3ZdrP6BH6HxHk5/k1iv/+fbYO12/BqJxl0CYYg6b9MFOfiFWzhN9Py6nhklKMf5yI7M71jo5+mc4vnGzowTjOAHtodkZOFTn7Cv6oUGuMgB74EfSk04eo+Qc65sV23I/fooMIXwgrYUpuiLBE3ICC+60wAm9gliEFq108wmNBQEokCvI5VlaaKUk31hYWg8ze5kBzAIGypLOdLn7Hmc3jgh/E/K+N1ubiuWDa+N1UgkFI/rjMh06gHTxi8UHg8QrjBtp6qdAz1b5JOB65y7hdzf4bIPdrN/okM/rg9ZFzf5ztfDF/34tgQ8Clw6QixS3jnXp0tWKggz+Em1yTFyg="
-
+  
   matrix:
   - LINT_CHECK="1"
   - TESTS="1" ODOO_REPO="odoo/odoo"
@@ -45,7 +43,7 @@ virtualenv:
 
 install:
   # - git clone --depth=1 https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
-  - git clone --depth=1 https://github.com/vauxoo-dev/maintainer-quality-tools.git -b master-vx-used-ssh-over-weblate-jesuszapata ${HOME}/maintainer-quality-tools
+  - git clone --depth=1 https://github.com/vauxoo-dev/maintainer-quality-tools.git -b master-vx-fetch-multi-pages-components-weblate-jesuszapata ${HOME}/maintainer-quality-tools
   - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
   - travis_install_nightly
   
